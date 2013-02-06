@@ -90,7 +90,7 @@ define('WPLANG', 'fr_FR');
  * de thèmes se servent de WP_DEBUG dans leur environnement de 
  * développement.
  */ 
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 
 /* C'est tout, ne touchez pas à ce qui suit ! Bon blogging ! */
 
