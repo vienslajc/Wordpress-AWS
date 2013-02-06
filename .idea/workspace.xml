@@ -25,7 +25,7 @@
       <file leaf-file-name="wp-config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="19" selection-start="3178" selection-end="3178" vertical-scroll-proportion="0.29235882">
+            <state line="92" column="24" selection-start="3845" selection-end="3845" vertical-scroll-proportion="0.62624586">
               <folding />
             </state>
           </provider>
@@ -44,15 +44,15 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/change-admin.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/db-config.php" />
-        <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/db.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="44" />
+    <option name="x" value="293" />
+    <option name="y" value="43" />
     <option name="width" value="1280" />
     <option name="height" value="774" />
   </component>
@@ -178,7 +178,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="44" width="1280" height="774" extended-state="0" />
+    <frame x="293" y="43" width="1280" height="774" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -276,7 +276,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="19" selection-start="3178" selection-end="3178" vertical-scroll-proportion="0.29235882">
+        <state line="92" column="24" selection-start="3845" selection-end="3845" vertical-scroll-proportion="0.62624586">
           <folding />
         </state>
       </provider>

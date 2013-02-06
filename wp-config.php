@@ -22,16 +22,16 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define('DB_NAME', 'wp_aws_1');
+define('DB_NAME', 'wp1_aws');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'root');
+define('DB_USER', 'wp1dbuser');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'wp1dbuser');
 
 /** Adresse de l'hébergement MySQL. */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'wp1db.covdihup80wo.eu-west-1.rds.amazonaws.com');
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define('DB_CHARSET', 'utf8');
@@ -90,7 +90,7 @@ define('WPLANG', 'fr_FR');
  * de thèmes se servent de WP_DEBUG dans leur environnement de 
  * développement.
  */ 
-define('WP_DEBUG', true);
+define('WP_DEBUG', false);
 
 /* C'est tout, ne touchez pas à ce qui suit ! Bon blogging ! */
 
