@@ -25,7 +25,7 @@
       <file leaf-file-name="wp-config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="23" selection-start="3798" selection-end="3798" vertical-scroll-proportion="0.66611296">
+            <state line="77" column="19" selection-start="3178" selection-end="3178" vertical-scroll-proportion="0.29235882">
               <folding />
             </state>
           </provider>
@@ -45,6 +45,7 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/db-config.php" />
         <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/db.php" />
       </list>
     </option>
   </component>
@@ -106,6 +107,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Wordpress AWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wordpress AWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,13 +260,6 @@
         <state line="11" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="241" column="20" selection-start="9482" selection-end="9482" vertical-scroll-proportion="0.025466893">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwelve/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="102" column="76" selection-start="3664" selection-end="3690" vertical-scroll-proportion="0.025466893">
@@ -268,7 +276,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="23" selection-start="3798" selection-end="3798" vertical-scroll-proportion="0.66611296">
+        <state line="77" column="19" selection-start="3178" selection-end="3178" vertical-scroll-proportion="0.29235882">
           <folding />
         </state>
       </provider>
