@@ -228,6 +228,17 @@ $wpdb->add_database(array(
 if ( is_admin() )
     $wpdb->send_reads_to_masters();
 
+$wpdb->add_database(array(
+    'host'     => "wp1dbread2.covdihup80wo.eu-west-1.rds.amazonaws.com",
+    'user'     => DB_USER,
+    'password' => DB_PASSWORD,
+    'name'     =>'wp1_aws',
+    'write'    => 0,
+    'read'     => 1,
+    'dataset'  => 'global',
+    'timeout'  => 0.2,
+));
+
 /**
  * This adds the same server again, only this time it is configured as a slave.
  * The last three parameters are set to the defaults but are shown for clarity.
